@@ -2,6 +2,8 @@ h1 {
     font-family: sans-serif;
 }
 
-p {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(180, 55%, 76%);
 }
+
