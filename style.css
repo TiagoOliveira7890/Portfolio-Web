@@ -7,3 +7,22 @@ body {
     background-color: hsl(180, 55%, 76%);
 }
 
+.aprendizagem {
+  font-size: 16px;
+}
+
+.dedicacao{
+    font-size: 18px;
+}
+
+.determinacao {
+font-size: 20px;
+}
+
+.persistencia {
+    font-size: 24px;
+}
+
+.colaboracao {
+    font-size: 22px;
+}
