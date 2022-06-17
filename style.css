@@ -7,6 +7,8 @@ body {
     background-color: hsl(180, 55%, 76%);
 }
 
+    
+
 .aprendizagem {
   font-size: 16px;
 }
@@ -26,3 +28,33 @@ font-size: 20px;
 .colaboracao {
     font-size: 22px;
 }
+
+#foto {
+    float: left;
+    background-color: green;
+    height: 280;
+    padding: 10px;
+}
+
+.image-container {
+    height: 220px;
+    padding: 10px;
+    position: relative;
+}
+
+#nome {
+    text-align: center;
+}
+
+#descricao {
+
+font-family: Impact,'Arial Narrow Bold', sans-serif;
+position: absolute;
+left: 300px;
+top: 50px;
+
+}
+
+ul li:nth-child(odd) {
+    background-color: grey;
+    }
